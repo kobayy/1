@@ -1,0 +1,18 @@
+a{
+    color: red;
+    text-decoration: none;
+    font-size: 18px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#segundo {
+    color: rebeccapurple;
+    text-decoration: none;
+    font-size: 18px;
+}
+.link {
+    color: green;
+    text-decoration: none;
+    font-size: 18px;
+}
